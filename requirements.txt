@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pdfplumber
+httpx
+python-multipart
+pyjwt
+passlib
+python-pptx
+langchain
+tiktoken
+faiss-cpu
+openai
+python-dotenv
+pytest-cov
+pytest
+pytest-asyncio
